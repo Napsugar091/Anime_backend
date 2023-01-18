@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Kodomo",
+    "subtitle": "子供 – „gyerek, gyermek”",
+    "description": "A <b>kodomo</b> japán szó, amely kifejezésként azokra az animékra és mangákra utal, melyeket elsősorban kisebb gyerekek számára készítenek. A történetekben gyakran központi helyet foglal el a család, illetve a kedves háziállatok. Értelem szerint ezek a történetek nem dolgoznak fel komoly témákat, inkább a közönség szórakoztatására készülnek. <b>Kodomo</b> manga, anime pl.: <i>Pokémon</i>, <i>Astro Boy</i>, <i>Binchou-tan</i>."
+  },
+  {
+    "name": "Shounen",
+    "subtitle": "少年 – „fiú”",
+    "description": "A <b>sónen</b> <i>(shōnen)</i> japán szó, mely kifejezésként azokra az animékre és mangákra utal, melyeket elsősorban fiúknak készítenek. A <b>sónen</b> anime és manga jellegzetessége az akciódús történet, melynek központi karaktere, a főhős egy fiú. A történetben fontos szerepet játszik a szereplők közötti erős barátság, a bajtársi kitartás és helytállás, ebből adódóan kedveltek azok a történetek, melyek szereplői sportolók vagy harcosok. A megjelenő női karakterek többnyire jobban kidolgozottabbak és szebbek, mint a sódzsó és egyéb műfajokban, sokszor szélsőségesen idealizált megjelenésűek. A fiú karakterek kevésbé kidolgozottak. A sónenből általában hiányoznak azok a virágos és egyéb <i>„lányos”</i> motívumok, melyek a sódzsóra jellemzőek (erős érzelmek és a rájuk épülő drámai jelenetek). Az idősebb, 18 év feletti közönségnek szóló sónen történeteket"
+  },
+  {
+    "name": "Shoujo",
+    "subtitle": "少女 – „lány”",
+    "description": "A <b>sódzso</b> <i>(shōjo)</i> japán szó, mely kifejezésként azokra az animékre és mangákra utal, melyeket elsősorban lányoknak készítenek. A stílus történeteit általában romantikus melodrámáknak szokták tekinteni, ahol a főszereplőket <i>„lányos”</i> motívumok veszik körül. Ezzel ellentétben azonban a történetek palettája ennél sokkal szélesebb, mely felöleli a történelmi események feldolgozó műveket, a fantasy vagy éppen horror történeteket is. Az ilyen célközönségű alkotásokra jellemző, hogy a fiú és férfi szereplők sokkal kidolgozottabbak, mint általában, ezzel szemben a női szereplők sokszor, de nem mindig, elhanyagoltnak tűnhetnek. Tipikus sódzsó manga, anime pl.: <i>Kamikaze Kaitou Jeanne</i>, <i>Mermaid Melody Pichi Pichi Pitch</i>, <i>Ouran High School Host Club</i>, <i>Sailor Moon</i>, <i>Tokyo Mew Mew</i>, <i>Vampire Knight</i>,<i> Ultra ManiacNana</i>, <i>Hana-Kimi</i> sorozat."
+  },
+  {
+    "name": "Seinen",
+    "subtitle": "青年 - „Férfi, fiatalember, fiatalemberek”",
+    "description": "A <b>szeinen</b> <i>(seinen)</i> mangastílus, amely általában a 18 és 30 év közötti férfiközönséget célozza meg, de például néhány manga a kicsivel idősebb üzletemberek számára készül. A japán nyelvben a szeinen <b><i>fiatalembert</i></b> vagy <b><i>fiatalemberek</i></b>et jelent, de nincs szexuális vonzata. Köszönhetően annak, hogy az idősebb korosztályt célozza meg, a sónennel összehasonlítva lényegesen kisebb olvasóközönséggel rendelkezik. A szeinen főhőse bármilyen nemű és korú lehet. Hangsúly a cselekményen és a szereplők fejlődésén van a harc helyett, a szereplők közötti kapcsolatok sem túl ideálisak, ezért gyakran komor hangvételű. Néhány szeinen sorozat összekeverhető a sódzso mangákkal. Ez különösen igaz a szeinen vígjátékokra, mint a <i>Chobits</i> és a <i>Csi's sweet home</i>, vagy a szeinen drámákra, mint a <i>Twin Spica</i>. Tipikus szeinen manga a <i>Ghost in the Shell</i>, az <i>Akira</i>, a <i>Berserk</i>, a<i> Battle Royale</i> vagy a <i>Gunnm</i>."
+  },
+  {
+    "name": "Josei",
+    "subtitle": "女性 - „Nő, fiatalnő”",
+    "description": "kifejezetten 18 és 45 év közötti nőknek készült manga/anime, azonban mivel a nők általában megmaradnak a shoujo történeteknél, ebből a típusú van a legkevesebb. Ezekben a történetekben több a szexualitás, mint a Shoujo mangákban, és általában komolyabb a történet is, ami főleg szerelmi dráma. A josei mangák főszereplője lehet nő vagy férfi is. Néhény mű: <i>Usagi Drop</i>, <i>Chihayafuru</i>, <i>Sakamichi no Apollon</i>, <i>Nodame Cantabile</i>, <i>Shouwa Genroku Rakugo Shinjuu</i>."
+  }
+]
